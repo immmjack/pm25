@@ -42,3 +42,21 @@ Liang, X., S. Li, S. Zhang, H. Huang, and S. X. Chen (2016), PM2.5 data reliabil
 
 
 
+## Data Processing
+
+More technical details are in the Jupyter Notebook (to be updated).
+
+
+
+### Correlation Matrix
+
+![raw_corr.png](https://github.com/immmjack/pm25/blob/main/out_graphs/raw_corr.png?raw=true)
+
+
+
+### Outliers Handling
+
+
+
+### Missing Values
+
